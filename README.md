@@ -64,7 +64,7 @@ sao ../megreziii-cli new-project
 
 ```bash
 # creat
-sao xxx/megreziii-cli new-project
+sao aiyingya/megreziii-cli new-project
 ```
 
 ## License
