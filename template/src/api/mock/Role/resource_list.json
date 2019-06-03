@@ -1,0 +1,50 @@
+{
+  "orderType":"mixed",                
+  "extendid":"mixed",                
+  "leftover":"mixed",                
+  "msgType":"mixed",                
+  "data":"mixed",                
+  "datas":  [                
+   {                
+    "bz":"mixed",                
+    "ym_id":"mixed",                
+    "zy_lx":"组件",                
+    "zy_id":89,                
+    "mk_id":1                
+  },
+    {
+      "bz":"mixed",
+      "ym_id":"mixed",
+      "zy_lx":"组件1",
+      "zy_id":893,
+      "mk_id":11
+    },
+    {
+      "bz":"mixed",
+      "ym_id":"mixed",
+      "zy_lx":"组件2",
+      "zy_id":892,
+      "mk_id":12
+    },
+    {
+      "bz":"mixed",
+      "ym_id":"mixed",
+      "zy_lx":"组件3",
+      "zy_id":891,
+      "mk_id":13
+    }
+],
+"totalPage":0,                
+"msgDetail":"mixed",                
+"pageSize":10,                
+"paging":"mixed",                
+"sort":"mixed",                
+"pageTo":10,                
+"pageFrom":1,                
+"total":0,                
+"msgContent":"查询成功！",                
+"pageIndex":1,                
+"sortType":"mixed",                
+"order":"mixed",                
+"status":0                
+}

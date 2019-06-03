@@ -1,0 +1,33 @@
+{
+  "name": "megreziii-cli",
+  "version": "0.1.14",
+  "description": "用于生成模板项目的脚手架",
+  "bin": "bin/cli.js",
+  "repository": {
+    "url": "https://github.com/aiyingya/cnymc.git",
+    "type": "github"
+  },
+  "scripts": {},
+  "files": [
+    "bin",
+    "saofile.js",
+    "template",
+    "lib"
+  ],
+  "author": "aiyingya <mis_ai@163.com> (github.com/aiyingya)",
+  "license": "MIT",
+  "keywords": [
+    "npm",
+    "generator",
+    "basacservise",
+    "react"
+  ],
+  "dependencies": {
+    "cac": "^6.5.1",
+    "superb": "^1.3.0",
+    "sao": "^1.6.1"
+  },
+  "devDependencies": {
+
+  }
+}

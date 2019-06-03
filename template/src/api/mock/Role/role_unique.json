@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "pageFrom": 10,
+  "pageTo": 20,
+  "total": 90,
+  "pageIndex": 2,
+  "totalPage": 9,
+  "pageSize": 10,
+  "data":
+    {
+      "js_id": "1",
+      "js_mc": "角色A",
+      "js_lx": "1",
+      "bz": "沒有備注"
+    }
+}

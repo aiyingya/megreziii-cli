@@ -1,0 +1,52 @@
+@import '~define';
+.open{
+  position: fixed;
+  width:@sider-inline-width;;
+  height: @sider-header-height;
+  top: 0;
+  left: 0;
+  background:@router-sub-color-2;
+  color: @color-white;
+}
+.close{
+  position: fixed;
+  width: @sider-collapsed-width;;
+  height: @sider-header-height;
+  top: 0;
+  left: 0;
+  background:@router-sub-color-2;
+  color: @color-white;
+  padding: @sider-header-close-padding;
+}
+.icon_open{
+  width: @sider-header-i-width;
+  height: @sider-header-i-height;
+  position: absolute;
+  top: @sider-header-i-top;
+  left: @sider-header-i-left;
+  svg{
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.icon_close{
+  width: @sider-header-i-width;
+  height: @sider-header-i-height;
+  svg{
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.span_open{
+  position: absolute;
+  font-size:@sider-header-sapn-font-size;
+  top: @sider-header-sapn-top;
+  left: @sider-header-sapn-left;
+  white-space: nowrap;
+}
+
+.span_close{
+  display: none;
+}

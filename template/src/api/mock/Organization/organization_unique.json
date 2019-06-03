@@ -1,0 +1,31 @@
+{
+  "orderType": null,
+  "extendid": null,
+  "leftover": null,
+  "msgType": null,
+  "data":
+    {
+      "org_id": 12345,
+      "org_name": "机构名称",
+      "parent_org_id": "12",
+      "parent_org_name":"人的方法更好",
+      "memo": "备注",
+      "create_time": "2015-02-10",
+      "create_id": 2323,
+      "update_time": "2016-20-15",
+      "update_id": 1222,
+      "delete_flg": "0",
+      "id": "2"
+    },
+  "totalPage": 0,
+  "msgDetail": null,
+  "pageSize": 10,
+  "paging": null,
+  "pageTo": 10,
+  "pageFrom": 1,
+  "total": 0,
+  "msgContent": null,
+  "pageIndex": 1,
+  "order": null,
+  "status": 0
+}

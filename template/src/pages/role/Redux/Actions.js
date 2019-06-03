@@ -1,0 +1,20 @@
+import {createAction} from "redux-actions";
+import types from "./ActionTypes";
+
+export const loadingStart = createAction(types.LOADINGSTART);
+export const loadingEnd = createAction(types.LOADINGEND);
+export const search = createAction(types.SEARCH);
+export const queryRoleType = createAction(types.QUERYROLETYPE);
+export const getFormItems = createAction(types.GETFORMITEMS);
+export const searchModule = createAction(types.SEARCHMODULE);
+export const searchModuleChecked = createAction(types.SEARCHMODULECHECKED);
+export const setDatas = createAction(types.setDatas);
+export const setSearchObj = createAction(types.setSearchObj);
+export const setResourceDatas = createAction(types.setResourceDatas);
+export const setBtnLoadingActive = createAction(types.SET_BTN_LOADING_ACTIVE);
+export const setBtnLoadingDisplay = createAction(types.SET_BTN_DLOADING_DISPLAY);
+export const setBtnRequestActive = createAction(types.BTN_REQUEST_ACTIVE);
+export const setBtnRequestDisplay = createAction(types.BTN_REQUEST_DISPLAY);
+export const setResourcePerms = createAction(types.USER_RESOURCE);
+export const loadingStartR = createAction(types.LOADING_START_R);
+export const loadingEndR = createAction(types.LOADING_END_R);

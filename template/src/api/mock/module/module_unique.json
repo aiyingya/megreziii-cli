@@ -1,0 +1,26 @@
+{
+  "status": 0,
+  "pageFrom": 10,
+  "pageTo": 20,
+  "total": 90,
+  "pageIndex": 1,
+  "totalPage": 9,
+  "pageSize": 10,
+  "data":
+    {
+      "mk_id": 3,
+      "mk_mc": "的的方法",
+      "mk_rk": "沙发沙发上的",
+      "tb": "1",
+      "px": 3,
+      "bz": "太阳突然一份官方",
+      "mk_code": "菜单标识",
+      "sj_mk_id": "1",
+      "sj_mk_mc": "上级模块名称",
+      "cr_sj": "2015-01-02",
+      "cr_id":"创建人ID",
+      "xg_sj":"2015-05-02",
+      "xg_id":"修改人ID",
+      "sc_bs":"删除标志"
+    }
+}

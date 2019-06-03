@@ -11,8 +11,10 @@ Install [megreziii-cli](https://github.com/aiyingya/megreziii-cli.git) first.
 此操作下载模板为:https://github.com/aiyingya/cnymc.git
 
 ```bash
+yarn global add sao
 yarn global add megreziii-cli
 # or
+npm i -g sao
 npm i -g megreziii-cli
 # creat
 megreziii-cli new-project
@@ -33,7 +35,7 @@ npm i -g sao
 ```bash
 # creat
 sao npm:megreziii-cli@0.0.1 new-project
-注意：需要指定版本如：@0.0.1（貌似sao下载不是最后一个版本） @latest
+注意：需要指定版本如：@0.0.1/@latest（貌似sao下载不是最后一个版本）
 ```
 
 #### 询问列表

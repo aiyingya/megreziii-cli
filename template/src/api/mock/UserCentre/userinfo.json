@@ -1,0 +1,137 @@
+{
+  "status": 0,
+  "datas": [
+    {
+      "href": "/system",
+      "title": "基础服务管理",
+      "treeid": "3",
+      "context": "基础服务管理",
+      "icon": "fa-list-alt",
+      "page_code": "basicServiceManagement",
+      "dropdown": true,
+      "children": [
+        {
+          "href": "/system/module",
+          "title": "菜单管理",
+          "treeid": "84",
+          "context": "菜单管理",
+          "icon": "fa fa-signal",
+          "page_code": "basicService_module",
+          "dropdown": false
+        },
+        {
+          "href": "/system/organization",
+          "title": "系统组织",
+          "treeid": "40",
+          "context": "系统组织",
+          "icon": "fa fa-eercast",
+          "page_code": "basicService_organization",
+          "dropdown": false
+        },
+        {
+          "href": "/system/role",
+          "title": "角色管理",
+          "treeid": "126",
+          "context": "角色管理",
+          "icon": "fa-user-circle",
+          "page_code": "null",
+          "dropdown": false
+        },
+        {
+          "href": "/system/user",
+          "title": "用户管理",
+          "treeid": "7",
+          "context": "用户管理",
+          "icon": "fa-circle-o-notch",
+          "page_code": "basicService_user",
+          "dropdown": false
+        }
+      ]
+    },
+    {
+      "href": "http://www.baidu.com",
+      "title": "我的收藏",
+      "treeid": "150",
+      "context": "我的收藏",
+      "icon": "null",
+      "page_code": "baidu",
+      "dropdown": true,
+      "children": [
+        {
+          "href": "http://www.baidu.com",
+          "title": "还是百度",
+          "treeid": "153",
+          "context": "还是百度",
+          "icon": "null",
+          "page_code": "MegrezIIIBasicServiceOutside",
+          "dropdown": false
+        },
+        {
+          "href": "https://www.iconfont.cn/",
+          "title": "阿里图库",
+          "treeid": "152",
+          "context": "阿里图库",
+          "icon": "null",
+          "page_code": "biaoshi",
+          "dropdown": false
+        },
+        {
+          "href": "http://www.baidu.com",
+          "title": "百度网页",
+          "treeid": "151",
+          "context": "百度网页",
+          "icon": "null",
+          "page_code": "baiduwangye",
+          "dropdown": false
+        }
+      ]
+    },
+    {
+      "href": "/system/bzzx",
+      "title": "配置中心管理",
+      "treeid": "102",
+      "context": "配置中心管理",
+      "icon": "fa fa-eercast",
+      "page_code": "ConfigurationCenterManagement",
+      "dropdown": true,
+      "children": [
+        {
+          "href": "副书",
+          "title": "ZK管理",
+          "treeid": "117",
+          "context": "ZK管理",
+          "icon": "fa fa-id-card",
+          "page_code": "basicService_zk",
+          "dropdown": false
+        },
+        {
+          "href": "/system/dict",
+          "title": "字典管理",
+          "treeid": "85",
+          "context": "字典管理",
+          "icon": "fa fa-users",
+          "page_code": "basicService_dict",
+          "dropdown": false
+        },
+        {
+          "href": "null",
+          "title": "应用管理",
+          "treeid": "104",
+          "context": "应用管理",
+          "icon": "fa fa-eercast",
+          "page_code": "basicService_application",
+          "dropdown": false
+        },
+        {
+          "href": "null",
+          "title": "节点管理",
+          "treeid": "103",
+          "context": "节点管理",
+          "icon": "fa fa-cog",
+          "page_code": "basicService_config",
+          "dropdown": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+@table-minWidth:550px;
+.body{
+  height: 100%;
+  .content{
+    margin:24px;
+    min-width: @table-minWidth;
+    background-color: rgba(255,255,255,0.9);
+  }
+  .form{
+    padding: 47px 0 48px;
+    text-align: center;
+  }
+  .formBtn{
+    padding-top: 16px;
+    text-align: left;
+    border-radius: 2px;
+    button{
+      width :120px;
+      margin-right:16px;
+    }
+  }
+}
+.editIcon,.deleteIcon{
+  color: rgba(0, 135, 255, 1);
+  width:21px;
+  height:21px;
+  margin-right: 10px;
+}
+.operate {
+  display: flex;
+  justify-content: space-between;
+  div:first-child{
+    max-width: 200px;
+    margin-right: 10px;
+  }
+  div:last-child{
+    width: 128px;
+  }
+  .winning-bz{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+}
+
+
+

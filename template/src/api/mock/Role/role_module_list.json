@@ -1,0 +1,251 @@
+{
+  "status":0,                
+  "datas":  [               
+   {                
+    "href":"#",               
+    "title":"规则管理",               
+    "treeid":"1",               
+    "context":"规则管理",               
+    "icon":"fa-circle-o-notch",               
+    "page_code":"null",               
+    "dropdown":true,                
+    "children": [               
+      {                
+      "href":"pages/rule_configuration.html",               
+      "title":"规则模板",               
+      "treeid":"2",               
+      "context":"规则模板",               
+      "icon":"fa-align-left",               
+      "page_code":"null",               
+      "dropdown":false                
+    },
+     {                
+      "href":"pages/rule_list.html",               
+      "title":"规则配置",               
+      "treeid":"3",               
+      "context":"规则配置",               
+      "icon":"fa-align-left",               
+      "page_code":"null",               
+      "dropdown":false                
+    }
+  ]
+},
+  {                
+    "href":"#",               
+    "title":"三目录管理",               
+    "treeid":"4",               
+    "context":"三目录管理",               
+    "icon":"fa-circle-o-notch",               
+    "page_code":"null",               
+    "dropdown":true,                
+    "children": [               
+     {                
+      "href":"pages/drug_management.html",               
+      "title":"药品管理",               
+      "treeid":"5",               
+      "context":"药品管理",               
+      "icon":"fa-align-left",               
+      "page_code":"null",               
+      "dropdown":false                
+    },
+    {                
+      "href":"pages/medicaltreat_management.html",               
+      "title":"诊疗项目管理",               
+      "treeid":"6",               
+      "context":"诊疗项目管理",               
+      "icon":"fa-align-left",               
+      "page_code":"null",               
+      "dropdown":false                
+    },
+     {                
+      "href":"pages/medicalmater_management.html",               
+      "title":"诊疗材料管理",               
+      "treeid":"7",               
+      "context":"诊疗材料管理",               
+      "icon":"fa-align-left",               
+      "page_code":"null",               
+      "dropdown":false                
+    }
+  ]
+},
+   {                
+    "href":"#",               
+    "title":"系统管理",               
+    "treeid":"8",               
+    "context":"系统管理",               
+    "icon":"fa-circle-o-notch",               
+    "page_code":"system",               
+    "dropdown":true,                
+    "children": [               
+     {                
+      "href":"pages/sys_user.html",               
+      "title":"用户管理",               
+      "treeid":"9",               
+      "context":"用户管理",               
+      "icon":"fa-align-left",               
+      "page_code":"YH",               
+      "dropdown":false                
+    },
+     {                
+      "href":"pages/sys_role.html",               
+      "title":"角色管理",               
+      "treeid":"10",               
+      "context":"角色管理",               
+      "icon":"fa-align-left",               
+      "page_code":"JS",               
+      "dropdown":false                
+    }
+  ]
+},
+   {                
+    "href":"#",               
+    "title":"数据字典管理",               
+    "treeid":"11",               
+    "context":"数据字典管理",               
+    "icon":"fa-circle-o-notch",               
+    "page_code":"null",               
+    "dropdown":true,                
+    "children": [               
+    {                
+      "href":"pages/dictpara_manage.html",               
+      "title":"数据字典管理",               
+      "treeid":"12",               
+      "context":"数据字典管理",               
+      "icon":"fa-align-left",               
+      "page_code":"null",               
+      "dropdown":false                
+    }
+  ]
+}
+],
+"data": {                
+"resource": {                
+"1": {                
+"null":true                
+},
+"2": {                
+"tabDetail":true,                
+"userInfo":true,                
+"ruleUnit":true,                
+"tabSearch":true,                
+"configForm":true,                
+"rule_AddData":true,                
+"searchRB":true,                
+"formHide":true,                
+"config_yuzhiTwo":true,                
+"formModal":true,                
+"comb_div2":true,                
+"formEdit":true,                
+"comb_div1":true,                
+"config_yuzhiOne":true,                
+"modalForm":true                
+},
+"3": {                
+"listSearch":true,                
+"tabDetail":true,                
+"userInfo":true,                
+"rule_search":true,                
+"tabsearch":true,                
+"formHide":true,                
+"config_yuzhiTwo":true,                
+"modalAddOne":true,                
+"formRuleChild":true,                
+"ruleAddData":true,                
+"formModal":true,                
+"formEdit":true,                
+"formRule":true,                
+"sortSelect":true,                
+"rule_Sort":true,                
+"ruleUnit":true,                
+"togglebtn":true,                
+"ruleDict":true,                
+"formEditwo":true,                
+"rulesearch":true,                
+"configForm":true,                
+"searchRB":true,                
+"tableCtrl1":true,                
+"knowCtrl":true,                
+"testkeycode":true,                
+"tableModal1":true,                
+"comb_div2":true,                
+"tableModal0":true,                
+"comb_div1":true,                
+"ruleSort":true,                
+"levelSelect":true,                
+"wordCtrl":true,                
+"config_yuzhiOne":true,                
+"formBridge":true,                
+"tableCtrl0":true                
+},
+"4": {                
+"null":true                
+},
+"5":{                
+"tcdict":true,                
+"userInfo":true,                
+"xzdict":true,                
+"ypdgdict":true,                
+"attached":true,                
+"form_drug":true,                
+"sflbdict":true,                
+"table_drug":true                
+},
+"6": {                
+"tcdict":true,                
+"userInfo":true,                
+"xzdict":true,                
+"attached":true,                
+"form_medt":true,                
+"table_medt":true,                
+"xmdjdict":true,                
+"sflbdict":true                
+},
+"7":{                
+"table_medimater":true,                
+"tcdict":true,                
+"userInfo":true,                
+"xzdict":true,                
+"attached":true,                
+"form_medimater":true,                
+"sflbdict":true                
+},
+"8":{                
+"null":true                
+},
+"9": {                
+"userInfo":true,                
+"userlist":true,                
+"usercheck":true,                
+"userroleright":true,                
+"userform":true,                
+"usereditform":true,                
+"userroleleft":true                
+},
+"10":{                
+"resourcectmk_id":true,                
+"userInfo":true,                
+"roleeditform":true,                
+"rolelist":true,                
+"roleeditmoudleform":true,                
+"modulelist":true,                
+"resourcectend":true,                
+"resourcelist":true,                
+"roleform":true                
+},
+"11": {                
+"null":true                
+},
+"12":{                
+"userInfo":true,                
+"hideUnit":true,                
+"configSingle":true,                
+"configUnit":true,                
+"form_dictpara":true,                
+"table_config":true,                
+"table_dictpara":true,                
+"newOne":true,                
+"form_configedit":true                
+}
+}
+}
+}

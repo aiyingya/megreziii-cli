@@ -1,0 +1,6 @@
+/TODO
+node_modules/
+.idea/
+/package-lock.json
+/yarn*
+.DS_Store

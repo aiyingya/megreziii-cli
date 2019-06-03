@@ -1,0 +1,21 @@
+{
+  "status": 0,
+  "pageFrom": 10,
+  "pageTo": 20,
+  "total": 90,
+  "pageIndex": 2,
+  "totalPage": 9,
+  "pageSize": 10,
+  "data": {
+    "zd_id":1,
+    "zd_lx": "XB",
+    "zd_lx_mc": "性别",
+    "zd_sx": "1",
+    "zd_mc": "男",
+    "zd_z": "0",
+    "ys_z": "0",
+    "ys_bs": "0",
+    "fl_bs": "0",
+    "bz": "0"
+  }
+}

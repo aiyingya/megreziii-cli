@@ -1,0 +1,64 @@
+{
+  "orderType": null,
+  "extendid": null,
+  "leftover": null,
+  "msgType": null,
+  "data": {
+    "checked": [
+      "afds"
+    ]
+  },
+  "datas": [
+    {
+      "memo": "11",
+      "org_name": "国家",
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": null,
+                  "org_id": "董事1 第二层",
+                  "memo": "董事1 第二层",
+                  "org_name": "董事1 第二层",
+                  "parent_org_id": "2"
+                }
+              ],
+              "org_id": "2",
+              "memo": "dss223",
+              "org_name": "董事1",
+              "parent_org_id": "1"
+            },
+            {
+              "children": null,
+              "org_id": "afds",
+              "memo": null,
+              "org_name": "董事2",
+              "parent_org_id": "1"
+            }
+          ],
+          "org_id": "1",
+          "memo": "asdfasdfa",
+          "org_name": "公司1",
+          "parent_org_id": "333"
+        }
+      ],
+      "org_id": "333",
+      "parent_org_id": "0"
+    }
+  ],
+  "totalPage": 0,
+  "msgDetail": null,
+  "pageSize": 10,
+  "paging": null,
+  "sort": null,
+  "pageTo": 10,
+  "pageFrom": 1,
+  "total": 0,
+  "msgContent": "查询成功！",
+  "pageIndex": 1,
+  "sortType": null,
+  "order": null,
+  "status": 0
+}

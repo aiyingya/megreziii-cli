@@ -1,0 +1,21 @@
+@import '~define';
+.open {
+  width: calc(100% - @sider-inline-width);
+  height: @sider-header-height;
+  background: @header-gradient-color;
+  position: fixed;
+  top: 0;
+  left: @sider-inline-width;
+  display: flex;
+  align-items: center;
+}
+.close{
+  width: calc(100% - @sider-collapsed-width);
+  height: @sider-header-height;
+  background: @header-gradient-color;
+  position: fixed;
+  top: 0;
+  left: @sider-collapsed-width
+}
+
+

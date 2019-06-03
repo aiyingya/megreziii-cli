@@ -1,0 +1,23 @@
+import {createAction} from "redux-actions";
+import types from "./ActionTypes";
+
+export const loadingStart = createAction(types.LOADINGSTART);
+export const loadingEnd = createAction(types.LOADINGEND);
+export const search = createAction(types.SEARCH);
+export const queryJobTitle = createAction(types.QUERYJOBTITLE);
+export const getFormItems = createAction(types.GETFORMITEMS);
+export const setDatas = createAction(types.SET_DATAS);
+export const setSearchObj = createAction(types.setSearchObj);
+export const setOrgFormItems = createAction(types.ORG_FORM_ITEMS);
+export const setOrgTreeDatas = createAction(types.ORG_TREE_DATAS);
+export const setOrgTreeChecked = createAction(types.ORG_TREE_CHECKED);
+export const showRoleEdit = createAction(types.SHOW_ROLE_EDIT);
+export const setRoleList = createAction(types.SET_ROLE_LIST);
+export const setUserRoleList = createAction(types.SET_USER_ROLE_LIST);
+export const setUser = createAction(types.SET_USER);
+export const setBtnLoadingActive = createAction(types.SET_BTN_LOADING_ACTIVE);
+export const setBtnLoadingDisplay = createAction(types.SET_BTN_DLOADING_DISPLAY);
+export const setBtnRequestActive = createAction(types.BTN_REQUEST_ACTIVE);
+export const setBtnRequestDisplay = createAction(types.BTN_REQUEST_DISPLAY);
+export const setResourcePerms = createAction(types.USER_RESOURCE);
+export const setExpandKey = createAction(types.ON_EXPAND_KEY);

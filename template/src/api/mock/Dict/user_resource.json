@@ -1,0 +1,77 @@
+{
+  "orderType": null,
+  "extendid": null,
+  "leftover": null,
+  "msgType": null,
+  "data": null,
+  "datas": [
+    {
+      "resource_id": "attached",
+      "page_code": "basicService_user",
+      "isShow": true
+    },
+    {
+      "resource_id": "searching",
+      "page_code": "basicService_user",
+      "isShow": true
+    },
+    {
+      "resource_id": "SHZTselect",
+      "page_code": "basicService_user",
+      "isShow": true
+    },
+    {
+      "resource_id": "tarsearch",
+      "page_code": "basicService_user",
+      "isShow": true
+    },
+    {
+      "resource_id": "usereditform",
+      "page_code": "basicService_user",
+      "isShow": true
+    },
+    {
+      "resource_id": "userform",
+      "page_code": "basicService_user",
+      "isShow": true
+    },
+    {
+      "resource_id": "userlist",
+      "page_code": "basicService_user",
+      "isShow": true
+    },
+    {
+      "resource_id": "userroleleft",
+      "page_code": "basicService_user",
+      "isShow": true
+    },
+    {
+      "resource_id": "userroleright",
+      "page_code": "basicService_user",
+      "isShow": true
+    },
+    {
+      "resource_id": "yhid",
+      "page_code": "basicService_user",
+      "isShow": true
+    },
+    {
+      "resource_id": "ZWselect",
+      "page_code": "basicService_user",
+      "isShow": true
+    }
+  ],
+  "totalPage": 0,
+  "msgDetail": null,
+  "pageSize": 10,
+  "paging": null,
+  "sort": null,
+  "pageTo": 10,
+  "pageFrom": 1,
+  "total": 0,
+  "msgContent": null,
+  "pageIndex": 1,
+  "sortType": null,
+  "order": null,
+  "status": 0
+}
