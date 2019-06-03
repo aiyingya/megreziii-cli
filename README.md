@@ -52,7 +52,6 @@ sao npm:megreziii-cli@0.0.1 new-project
 此操作下载模板为:megreziii-cli项目中template目录下的项目
 
 ```bash
-注意：只做参考,不建议下载在本地使用
 cd//megreziii-cli 目录
 # creat
 sao ../megreziii-cli new-project
