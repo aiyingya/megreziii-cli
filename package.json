@@ -18,9 +18,12 @@
   "license": "MIT",
   "keywords": [
     "npm",
+    "saojs",
+    "sao",
     "generator",
-    "basacservise",
-    "react"
+    "cli",
+    "脚手架",
+    "模板"
   ],
   "dependencies": {
     "cac": "^6.5.1",
